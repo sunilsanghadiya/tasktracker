@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Stuff Work",
+      "day": "Oct 14 at 5:30 PM",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Go to usa",
+      "day": "March 24 at 12:45PM",
+      "reminder": false
+    },
+    {
+      "text": "This is my data",
+      "day": "march 23 2019",
+      "reminder": false,
+      "id": 5
+    },
+    {
+      "text": "today finish the todoapp ",
+      "day": "may 18 at 9PM",
+      "reminder": true,
+      "id": 6
+    },
+    {
+      "text": "this is myTask",
+      "day": "13 date",
+      "reminder": true,
+      "id": 7
+    }
+  ]
+}
