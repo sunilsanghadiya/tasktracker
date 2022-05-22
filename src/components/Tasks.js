@@ -13,5 +13,6 @@ export default function Tasks({tasks, onDelete, onToggle}) {
         ))}
         </div>
     </>
+    
   )
 }

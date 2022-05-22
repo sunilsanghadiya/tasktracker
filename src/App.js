@@ -92,7 +92,6 @@ const toggleReminder = async(id) => {
               onDelete=
               {deleteTask} onToggle={toggleReminder}/>) : 
               ('No Task To Show.')}
-
     </div>
   );
 }

@@ -17,7 +17,6 @@ const onSubmit = (e) => {
     setDay('')
     setReminder(false)
 }
-
     return (
         <form className="add-form" onSubmit={onSubmit}>
             <div className="form-control">
